@@ -1,0 +1,65 @@
+Flight:2020-01-03,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-01-03 20:48
+ArrivalTime:2020-01-04 01:16
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-01-08,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-01-08 20:48
+ArrivalTime:2020-01-09 01:16
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-01-11,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-01-11 20:48
+ArrivalTime:2020-01-12 01:16
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-01-01,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-01-01 00:04
+ArrivalTime:2020-01-01 03:51
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-01-02,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-01-02 00:04
+ArrivalTime:2020-01-02 03:51
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
