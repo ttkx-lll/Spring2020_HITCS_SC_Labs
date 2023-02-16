@@ -1,0 +1,448 @@
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了234车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了sdfg车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了dfgh车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了fghj车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K90车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K90车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K91车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K92车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了234车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了sdfg车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了dfgh车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了fghj车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K90车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K91车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K92车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K90车次分配了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K91车次分配了234车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K92车次分配了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[checkLocationAndResourseConflict]
+[null]
+检测了车次列表中是否有车厢和车站冲突
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K91车次分配了123车厢
+
+2020/06/06 20:21:03
+[WARNING]
+[app.TrainScheduleApp]
+[distributeResource]
+[exception.ResourceConflictException]
+由于123在该车次时间有其他车次占用，分配失败
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[checkLocationAndResourseConflict]
+[null]
+检测了车次列表中是否有车厢和车站冲突
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[delResource]
+[null]
+删除了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[delResource]
+[null]
+删除了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了234车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了sdfg车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了dfgh车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了fghj车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K90车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K90车次分配了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K90车次分配了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K92车次分配了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了234车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addResource]
+[null]
+添加了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了sdfg车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了dfgh车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了fghj车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K90车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K91车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addPlan]
+[null]
+添加了K92车次
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K90车次分配了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K91车次分配了234车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K92车次分配了345车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K91车次分配了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[distributeResource]
+[null]
+为K92车次分配了123车厢
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[getAllPlanWithResource]
+[null]
+取得了123车厢执行的全部车次列表
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[delLocation]
+[null]
+删除了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[addLocation]
+[null]
+添加了asdf车站
+
+2020/06/06 20:21:03
+[INFO]
+[app.TrainScheduleApp]
+[delLocation]
+[null]
+删除了asdf车站
+
